@@ -11,4 +11,4 @@ Projeto desenvolvido em Java para simulação de um sistema de cadastro de clien
 ## 🚀 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/frutas-java.git](https://github.com/seu-usuario/frutas-java.git)
+  https://github.com/LucasPessoa68/FRUTAS-JAVA.git
